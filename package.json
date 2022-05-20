@@ -1,0 +1,25 @@
+{
+  "name": "furry-bigcute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozongyi/furry-bigcute.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luozongyi/furry-bigcute/issues"
+  },
+  "homepage": "https://github.com/luozongyi/furry-bigcute#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0",
+    "less": "^4.1.2"
+  }
+}
